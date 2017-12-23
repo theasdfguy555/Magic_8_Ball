@@ -1,0 +1,7 @@
+c:\users\levi\documents\visual studio 2017\Projects\M8B\M8B\obj\Debug\M8B.csprojResolveAssemblyReference.cache
+c:\users\levi\documents\visual studio 2017\Projects\M8B\M8B\bin\Debug\M8B.exe.config
+c:\users\levi\documents\visual studio 2017\Projects\M8B\M8B\bin\Debug\M8B.exe
+c:\users\levi\documents\visual studio 2017\Projects\M8B\M8B\bin\Debug\M8B.pdb
+c:\users\levi\documents\visual studio 2017\Projects\M8B\M8B\obj\Debug\M8B.exe
+c:\users\levi\documents\visual studio 2017\Projects\M8B\M8B\obj\Debug\M8B.pdb
+C:\Users\Levi\documents\visual studio 2017\Projects\M8B\M8B\obj\Debug\M8B.csproj.ResolveComReference.cache

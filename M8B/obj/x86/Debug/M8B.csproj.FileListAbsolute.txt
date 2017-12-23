@@ -1,0 +1,5 @@
+C:\Users\Levi\documents\visual studio 2017\Projects\M8B\M8B\bin\x86\Debug\M8B.exe.config
+C:\Users\Levi\documents\visual studio 2017\Projects\M8B\M8B\bin\x86\Debug\M8B.exe
+C:\Users\Levi\documents\visual studio 2017\Projects\M8B\M8B\bin\x86\Debug\M8B.pdb
+C:\Users\Levi\documents\visual studio 2017\Projects\M8B\M8B\obj\x86\Debug\M8B.exe
+C:\Users\Levi\documents\visual studio 2017\Projects\M8B\M8B\obj\x86\Debug\M8B.pdb

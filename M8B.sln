@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M8B", "M8B\M8B.csproj", "{7CEBD86E-F9F9-4A6A-8B47-4435FE27C4EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		ARM_Build|Any CPU = ARM_Build|Any CPU
+		ARM_Build|x86 = ARM_Build|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CEBD86E-F9F9-4A6A-8B47-4435FE27C4EB}.ARM_Build|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CEBD86E-F9F9-4A6A-8B47-4435FE27C4EB}.ARM_Build|Any CPU.Build.0 = Debug|Any CPU
+		{7CEBD86E-F9F9-4A6A-8B47-4435FE27C4EB}.ARM_Build|x86.ActiveCfg = Release|Any CPU
+		{7CEBD86E-F9F9-4A6A-8B47-4435FE27C4EB}.ARM_Build|x86.Build.0 = Release|Any CPU
+		{7CEBD86E-F9F9-4A6A-8B47-4435FE27C4EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CEBD86E-F9F9-4A6A-8B47-4435FE27C4EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CEBD86E-F9F9-4A6A-8B47-4435FE27C4EB}.Debug|x86.ActiveCfg = Release|Any CPU
+		{7CEBD86E-F9F9-4A6A-8B47-4435FE27C4EB}.Debug|x86.Build.0 = Release|Any CPU
+		{7CEBD86E-F9F9-4A6A-8B47-4435FE27C4EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CEBD86E-F9F9-4A6A-8B47-4435FE27C4EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CEBD86E-F9F9-4A6A-8B47-4435FE27C4EB}.Release|x86.ActiveCfg = Release|Any CPU
+		{7CEBD86E-F9F9-4A6A-8B47-4435FE27C4EB}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
